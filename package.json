@@ -12,6 +12,6 @@
     "@open-wa/wa-automate": "^1.9.49",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
